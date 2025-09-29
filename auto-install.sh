@@ -33,7 +33,7 @@ animate() {
 }
 
 animate "Cloning repository"
-git clone https://github.com/hycroedev/port-forwarding-tool.git /opt/port-forwarding-tool >/dev/null 2>&1 || true
+git clone https://github.com/darkop2320-oss/port.git /opt/port-forwarding-tool >/dev/null 2>&1 || true
 
 cd /opt/port-forwarding-tool
 
