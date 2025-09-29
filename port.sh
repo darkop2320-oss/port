@@ -2,7 +2,7 @@
 
 # ========= CONFIG =========
 DB_FILE="/tmp/port_tunnels.db"
-SERVER="137.175.89.45"
+SERVER="137.175.89.75"
 USER="tunnel"
 PASS="Lw-T72q)L735Rwz+Iv"
 # ==========================
@@ -19,7 +19,7 @@ RST="\e[0m"
 
 banner() {
   echo -e "${CYN}=============================="
-  echo -e "     HycroeDev"
+  echo -e "     darkop"
   echo -e "==============================${RST}"
 }
 
