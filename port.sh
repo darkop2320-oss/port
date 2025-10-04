@@ -2,9 +2,9 @@
 
 # ========= CONFIG =========
 DB_FILE="/tmp/port_tunnels.db"
-SERVER="137.175.89.75"
+SERVER="137.175.89.94"
 USER="tunnel"
-PASS="Lw-T72q)L735Rwz+Iv"
+PASS="darkop"
 # ==========================
 
 mkdir -p /tmp
